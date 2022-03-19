@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+This Project is about creating a task tracker with React Js, as a simple project for beginners
+
+# Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
