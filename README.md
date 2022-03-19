@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Task Tracker
 
 This Project is about creating a task tracker with React Js, as a simple project for beginners
 
